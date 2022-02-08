@@ -6,8 +6,7 @@ import matplotlib.pyplot as plt
 
 if __name__=="__main__":
     
-    #im_path=r"graph_images\Scatter markers.png"
-    im_path=r"C:\Users\edoar\OneDrive\Documents\Backup 19-04-20\University\CHEM0062\projects\MAIN project\extract graphs\vsc stuff\graph_images\Scatter markers closer.png"
+    im_path=r"graph_images\Scatter markers.png"
     #im_path=r"graph_images\desmos scatter close.png"
     #im_path=r'graph_images\Origin scatter.png'
 
